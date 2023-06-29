@@ -1,0 +1,26 @@
+.root {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+
+.box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 10px;
+  span {
+    color: brown;
+  }
+}
+
+.active {
+  font-weight: 500;
+}
