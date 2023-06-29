@@ -17,8 +17,6 @@ lerna-debug.log*
 /backend/node_modules
 /backend/build
 /backend/src/private.ts
-/backend/static/avatars/*.jpg
-/backend/static/img/*.jpg
 
 # Editor directories and files
 .vscode/*
